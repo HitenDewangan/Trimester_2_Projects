@@ -1,0 +1,5 @@
+{
+  "builds": [
+    { "src": "Spotify.html", "use": "/" }
+  ]
+}
