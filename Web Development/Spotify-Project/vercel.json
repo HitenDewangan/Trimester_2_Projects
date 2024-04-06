@@ -1,5 +1,5 @@
 {
   "builds": [
-    { "src": "Spotify.html", "use": "/" }
+    { "src": "Spotify.html", "use": "/about" }
   ]
 }
